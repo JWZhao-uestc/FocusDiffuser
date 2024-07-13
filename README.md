@@ -1,2 +1,3 @@
 # FocusDiffuser
-This is a official implementation for FocusDiffuser
+This is an official implementation for FocusDiffuser
+Coming soon...
