@@ -1,0 +1,2 @@
+                                                                                  #--freeze_condition_embed --freeze_post_process
+CUDA_VISIBLE_DEVICES=2 python -m segm.train_diff_ddet --scale 0.1 -s_t 4 --resume --freeze_post_process --data_root ./DATA --dataset cod --im-size 384 --log-dir seg_base_p16_384 --batch-size 6  --backbone vit_base_patch16_384
