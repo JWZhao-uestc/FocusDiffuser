@@ -1,4 +1,6 @@
 # FocusDiffuser
 This is an official implementation for FocusDiffuser
 
-Coming soon...
+Evaluation Scripts：
+
+bash test_ddet_base_512.sh
